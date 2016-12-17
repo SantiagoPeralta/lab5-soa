@@ -10,3 +10,10 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+
+// Para limitar el numero de twits
+/*
+limit => para limitar el numero de twits por paguina
+numberOfPages => para limitar a 1 paguina
+con lo cual limit sera n y numberOfPages = 1
+ */
